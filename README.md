@@ -1,4 +1,5 @@
-# Python-Basics
+# Python-I
+## numpy, pandas and matplotlib
 
 Some basic commands and functionalities used for data analysis using Python- using numpy, matplotlib and pandas libraries. The codes are collated in jupyter notebooks and can be a handy guide to anyone starting out with python. 
 
